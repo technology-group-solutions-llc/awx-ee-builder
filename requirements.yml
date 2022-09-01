@@ -1,0 +1,12 @@
+---
+collections:
+  - ansible.posix
+  - ansible.windows
+  - awx.awx
+  - cisco.aci
+  - cisco.dnac
+  - community.general
+  - community.vmware
+  - community.windows
+  - kubernetes.core
+  - community.aws
